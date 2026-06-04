@@ -1,3 +1,3 @@
 # Test
 
-Testing if my environment works
+hello, I am alive and my environment works.
